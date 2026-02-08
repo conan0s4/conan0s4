@@ -84,9 +84,6 @@
   <a href="https://ctftime.org/team/411847">
     <img alt="CTFtime Team 2" src="https://img.shields.io/badge/CTFtime%20Team%202-e6f4ea?style=for-the-badge&logo=ctftime&logoColor=2f6f4e" />
   </a>
-  <a href="https://medium.com/@conan0s4">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-e6f4ea?style=for-the-badge&logo=medium&logoColor=2f6f4e" />
-  </a>
   <a href="https://www.linkedin.com/in/alexander-sapo-245372337">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-e6f4ea?style=for-the-badge&logo=linkedin&logoColor=2f6f4e" />
   </a>
