@@ -79,7 +79,7 @@
     <img alt="HackerOne" src="https://img.shields.io/badge/HackerOne-e6f4ea?style=for-the-badge&logo=hackerone&logoColor=2f6f4e" />
   </a>
   <a href="https://ctftime.org/team/411847">
-    <img alt="CTFtime Team" src="https://img.shields.io/badge/CTFtime%20Team%202-e6f4ea?style=for-the-badge&logo=ctftime&logoColor=2f6f4e" />
+    <img alt="CTFtime Team" src="https://img.shields.io/badge/CTFtime%20Team-e6f4ea?style=for-the-badge&logo=ctftime&logoColor=2f6f4e" />
   </a>
   <a href="https://www.linkedin.com/in/alexander-sapo-245372337">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-e6f4ea?style=for-the-badge&logo=linkedin&logoColor=2f6f4e" />
