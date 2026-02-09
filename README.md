@@ -89,6 +89,6 @@
   </a>
 </p>
 
-![snake animation](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/github-contribution-grid-snake.svg)
+![snake animation](github-user-contribution.svg)
 
 
