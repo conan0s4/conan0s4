@@ -89,6 +89,5 @@
   </a>
 </p>
 
-![snake animation](github-user-contribution.svg)
 
 
