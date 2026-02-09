@@ -2,8 +2,8 @@
 
 
 ---
-## Skills 
-<p>
+<h3 style="text-align:center;">Skills</h3>
+<p style="text-align:center;">
 
 <a href="#">
   <img alt="Digital Forensics" src="https://img.shields.io/badge/Digital%20Forensics-lightblue?style=for-the-badge&logo=kalilinux&logoColor=000000" />
@@ -36,8 +36,8 @@
 </p>
 
 
-## Languages
-<p>
+<h3 style="text-align:center;">Languages</h3>
+<p style="text-align:center;">
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="PowerShell" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
   <img alt="Bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -45,9 +45,9 @@
   <img alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </p>
 
-## Online Profiles
+<h3 style="text-align:center;">Online Profiles</h3>
 
-<p>
+<p style="text-align:center;">
   <a href="https://www.root-me.org/conan0s4">
     <img alt="Root-Me" src="https://img.shields.io/badge/Root--Me-e6f4ea?style=for-the-badge&logo=rootme&logoColor=2f6f4e" />
   </a>
