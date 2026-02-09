@@ -88,3 +88,7 @@
     <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-e6f4ea?style=for-the-badge&logo=hackerrank&logoColor=2f6f4e" />
   </a>
 </p>
+
+![snake animation](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/github-contribution-grid-snake.svg)
+
+
