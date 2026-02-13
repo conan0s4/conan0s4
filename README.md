@@ -10,7 +10,7 @@
 </a>
 
 <a href="#">
-  <img alt="Web Exploitation" src="https://img.shields.io/badge/Web%20Exploitation-lightblue?style=for-the-badge&logo=owasp&logoColor=000000" />
+  <img alt="Web Exploitation" src="https://img.shields.io/badge/Web%20Pentesting-lightblue?style=for-the-badge&logo=owasp&logoColor=000000" />
 </a>
 
 <a href="#">
