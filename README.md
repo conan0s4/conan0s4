@@ -49,10 +49,10 @@
 
 <p style="text-align:center;">
   <a href="https://www.root-me.org/conan0s4">
-    <img alt="Root-Me" src="https://img.shields.io/badge/Root--Me-e6f4ea?style=for-the-badge&logo=rootme&logoColor=2f6f4e" />
+    <img alt="Root-Me↗" src="https://img.shields.io/badge/Root--Me-e6f4ea?style=for-the-badge&logo=rootme&logoColor=2f6f4e" />
   </a>
   <a href="https://tryhackme.com/p/conan0s4">
-    <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-e6f4ea?style=for-the-badge&logo=tryhackme&logoColor=2f6f4e" />
+    <img alt="TryHackMe↗" src="https://img.shields.io/badge/TryHackMe-e6f4ea?style=for-the-badge&logo=tryhackme&logoColor=2f6f4e" />
   </a>
   <a href="https://play.picoctf.org/users/conan0s4">
     <img alt="picoCTF" src="https://img.shields.io/badge/picoCTF-e6f4ea?style=for-the-badge&logo=picoctf&logoColor=2f6f4e" />
