@@ -55,7 +55,7 @@
     <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe↗-e6f4ea?style=for-the-badge&logo=tryhackme&logoColor=2f6f4e" />
   </a>
   <a href="https://play.picoctf.org/users/conan0s4">
-    <img alt="picoCTF" src="https://img.shields.io/badge/picoCTF-e6f4ea?style=for-the-badge&logo=picoctf&logoColor=2f6f4e" />
+    <img alt="picoCTF" src="https://img.shields.io/badge/picoCTF↗-e6f4ea?style=for-the-badge&logo=picoctf&logoColor=2f6f4e" />
   </a>
   <a href="https://app.hackthebox.com/profile/2201706">
     <img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box↗-e6f4ea?style=for-the-badge&logo=hackthebox&logoColor=2f6f4e" />
@@ -79,7 +79,7 @@
     <img alt="HackerOne" src="https://img.shields.io/badge/HackerOne↗-e6f4ea?style=for-the-badge&logo=hackerone&logoColor=2f6f4e" />
   </a>
   <a href="https://ctftime.org/team/411847">
-    <img alt="CTFtime Team" src="https://img.shields.io/badge/CTFtime-e6f4ea?style=for-the-badge&logo=ctftime&logoColor=2f6f4e" />
+    <img alt="CTFtime Team" src="https://img.shields.io/badge/CTFtime↗-e6f4ea?style=for-the-badge&logo=ctftime&logoColor=2f6f4e" />
   </a>
   <a href="https://www.linkedin.com/in/alexander-sapo-245372337">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn↗-e6f4ea?style=for-the-badge&logo=linkedin&logoColor=2f6f4e" />
