@@ -47,7 +47,6 @@
 
 
 
-
 ### Online Profiles
 
 [Root-Me](https://www.root-me.org/conan0s4)  
@@ -63,13 +62,3 @@
 [CTFtime](https://ctftime.org/team/411847)  
 [LinkedIn](https://www.linkedin.com/in/alexander-sapo-245372337)  
 [HackerRank](https://www.hackerrank.com/profile/alexandermsapo)
-  a img {
-    transition: transform 0.15s, box-shadow 0.15s;
-  }
-  a img:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-  }
-</style>
-
-
