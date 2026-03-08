@@ -47,7 +47,7 @@
 
 <h3 style="text-align:center;">Online Profiles</h3>
 
-<p style="text-align:center;">
+<div style="text-align:center; display:flex; flex-wrap:wrap; justify-content:center; gap:6px;">
   <a href="https://www.root-me.org/conan0s4">
     <img alt="Root-Me" src="https://img.shields.io/badge/Root--Me↗-e6f4ea?style=for-the-badge&logo=rootme&logoColor=2f6f4e" />
   </a>
@@ -87,7 +87,16 @@
   <a href="https://www.hackerrank.com/profile/alexandermsapo">
     <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank↗-e6f4ea?style=for-the-badge&logo=hackerrank&logoColor=2f6f4e" />
   </a>
-</p>
+</div>
 
+<style>
+  a img {
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+  a img:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  }
+</style>
 
 
