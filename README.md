@@ -6,7 +6,7 @@
 <p style="text-align:center;">
 
 <a href="#">
-  <img alt="DFIR" src="https://img.shields.io/badge/DFIR-lightblue?style=for-the-badge&logo=kalilinux&logoColor=000000" />
+  <img alt="Network Penetesting" src="https://img.shields.io/badge/Network-Pentesting?style=for-the-badge&logo=kalilinux&logoColor=000000" />
 </a>
 
 <a href="#">
@@ -18,7 +18,7 @@
 </a>
 
 <a href="#">
-  <img alt="Log Analysis" src="https://img.shields.io/badge/Log%20Analysis-lightblue?style=for-the-badge&logo=splunk&logoColor=000000" />
+  <img alt="DFIR" src="https://img.shields.io/badge/DFIR-lightblue?style=for-the-badge&logo=splunk&logoColor=000000" />
 </a>
 
 </p>
