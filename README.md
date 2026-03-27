@@ -3,14 +3,14 @@
 
 ---
 <h3 style="text-align:center;">Skills</h3>
-<p style="text-align:center;">
+<p align="center">
 
 <a href="#">
-  <img alt="Network Penetesting" src="https://img.shields.io/badge/Network%20Pentesting-lightblue?style=for-the-badge&logo=kalilinux&logoColor=000000" />
+  <img alt="Network Pentesting" src="https://img.shields.io/badge/Network%20Pentesting-lightblue?style=for-the-badge&logo=kalilinux&logoColor=000000" />
 </a>
 
 <a href="#">
-  <img alt="Web Exploitation" src="https://img.shields.io/badge/Web%20Pentesting-lightblue?style=for-the-badge&logo=owasp&logoColor=000000" />
+  <img alt="Web Exploitation" src="https://img.shields.io/badge/Web%20Exploitation-lightblue?style=for-the-badge&logo=owasp&logoColor=000000" />
 </a>
 
 <a href="#">
@@ -18,11 +18,10 @@
 </a>
 
 <a href="#">
-  <img alt="DFIR" src="https://img.shields.io/badge/Digital%Forensics_Incident%20Response-lightblue?style=for-the-badge&logo=splunk&logoColor=000000" />
+  <img alt="DFIR" src="https://img.shields.io/badge/Digital%20Forensics%20%26%20Incident%20Response-lightblue?style=for-the-badge&logo=splunk&logoColor=000000" />
 </a>
 
 </p>
-
 
 <h3 style="text-align:center;">Languages</h3>
 <p style="text-align:center;">
