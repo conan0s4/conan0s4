@@ -3,7 +3,7 @@
 
 ---
 <h3 style="text-align:center;">Skills</h3>
-<p align="center">
+<p>
 
 <a href="#">
   <img alt="Network Pentesting" src="https://img.shields.io/badge/Network%20Pentesting-lightblue?style=for-the-badge&logo=kalilinux&logoColor=000000" />
