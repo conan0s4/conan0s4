@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=CTF+Joined+2024:2026+<7>;IDSC-CyberBlitz+2024+Rank+<2>;H4G+2024+Rank+<T7>;H4G+2025+Rank+<T6>)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=CTF+Joined+2024:2026+<8>;IDSC-CyberBlitz+2024+Rank+<2>;H4G+2024+Rank+<T7>;H4G+2025+Rank+<T6>;IDSC-CyberBlitz+2026+Rank+<2>)
 
 
 ---
