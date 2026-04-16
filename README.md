@@ -37,6 +37,7 @@
 ### Online Profiles
 
 
+[Credly↗](https://www.credly.com/users/alexander-sapo)
 [HackTheBox-Academy↗](https://profile.hackthebox.com/profile/019d943e-65e2-725e-8bdd-11004628b0a5)  
 [Root-Me↗](https://www.root-me.org/conan0s4)  
 [TryHackMe↗](https://tryhackme.com/p/conan0s4)  
