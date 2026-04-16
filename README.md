@@ -36,9 +36,6 @@
 
 ### Online Profiles
 
-
-[HackTheBox-Academy↗](https://profile.hackthebox.com/profile/019d943e-65e2-725e-8bdd-11004628b0a5)
-[Credly↗](https://www.credly.com/users/alexander-sapo)
 [Root-Me↗](https://www.root-me.org/conan0s4)  
 [TryHackMe↗](https://tryhackme.com/p/conan0s4)  
 [picoCTF↗](https://play.picoctf.org/users/conan0s4)  
@@ -52,3 +49,5 @@
 [CTFtime↗](https://ctftime.org/team/411847)  
 [LinkedIn↗](https://www.linkedin.com/in/alexander-sapo-245372337)  
 [HackerRank↗](https://www.hackerrank.com/profile/alexandermsapo)
+[HackTheBox-Academy↗](https://profile.hackthebox.com/profile/019d943e-65e2-725e-8bdd-11004628b0a5)
+[Credly↗](https://www.credly.com/users/alexander-sapo)
