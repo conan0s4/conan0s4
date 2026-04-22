@@ -35,7 +35,7 @@
 [Root-Me↗](https://www.root-me.org/conan0s4)  
 [TryHackMe↗](https://tryhackme.com/p/conan0s4)  
 [picoCTF↗](https://play.picoctf.org/users/conan0s4)  
-[Hack The Box↗](https://app.hackthebox.com/profile/2201706)  
+[Hack The Box↗](https://app.hackthebox.com/public/users/2201706)  
 [Ringzer0CTF↗](https://ringzer0ctf.com/profile/52616/conan0s4)  
 [CyberDefenders↗](https://cyberdefenders.org/p/alexandermsapo/)  
 [Hackviser↗](https://app.hackviser.com/profile/conan0s4)  
