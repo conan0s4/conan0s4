@@ -26,7 +26,7 @@
 <h3 style="text-align:center;">Languages</h3>
 <p style="text-align:center;">
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-\</p>
+</p>
 
 
 
