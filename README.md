@@ -33,7 +33,7 @@
 ### Online Profiles
 
 
-[Root-Me↗](https://platform.secuna.io/hunter/profile/conan0s4)  
+[Secuna↗](https://platform.secuna.io/hunter/profile/conan0s4)  
 [Root-Me↗](https://www.root-me.org/conan0s4)  
 [TryHackMe↗](https://tryhackme.com/p/conan0s4)  
 [picoCTF↗](https://play.picoctf.org/users/conan0s4)  
