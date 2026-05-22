@@ -5,9 +5,6 @@
 <h3 style="text-align:center;">Skills</h3>
 <p>
 
-<a href="#">
-  <img alt="Network Pentesting" src="https://img.shields.io/badge/Network%20Pentesting-lightblue?style=for-the-badge&logo=kalilinux&logoColor=000000" />
-</a>
 
 <a href="#">
   <img alt="DFIR" src="https://img.shields.io/badge/Digital%20Forensics%20%26%20Incident%20Response-lightblue?style=for-the-badge&logo=splunk&logoColor=000000" />
