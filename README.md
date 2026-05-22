@@ -10,14 +10,6 @@
 </a>
 
 <a href="#">
-  <img alt="Web Exploitation" src="https://img.shields.io/badge/Web%20Exploitation-lightblue?style=for-the-badge&logo=owasp&logoColor=000000" />
-</a>
-
-<a href="#">
-  <img alt="Reconnaissance" src="https://img.shields.io/badge/Reconnaissance-lightblue?style=for-the-badge&logo=googlemaps&logoColor=000000" />
-</a>
-
-<a href="#">
   <img alt="DFIR" src="https://img.shields.io/badge/Digital%20Forensics%20%26%20Incident%20Response-lightblue?style=for-the-badge&logo=splunk&logoColor=000000" />
 </a>
 
