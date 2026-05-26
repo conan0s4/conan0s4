@@ -5,7 +5,17 @@
 <h3 style="text-align:center;">Skills</h3>
 <p>
 
-<img src="https://img.shields.io/badge/Memory%20Forensics-0A66C2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Network%20Forensics-1F8B4C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Disk%20Forensics-5C2D91?style=for-the-badge" /> <img src="https://img.shields.io/badge/Malware%20Analysis-B22222?style=for-the-badge" /> <img src="https://img.shields.io/badge/Incident%20Response-FF8C00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Threat%20Hunting-8B0000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Log%20Analysis-2F4F4F?style=for-the-badge" /> <img src="https://img.shields.io/badge/Web%20Application%20Pentesting-4B0082?style=for-the-badge" /> <img src="https://img.shields.io/badge/Reconnaissance-556B2F?style=for-the-badge" /> <img src="https://img.shields.io/badge/Scripting%20%2F%20Automation-696969?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Memory%20Forensics-90EE90?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Network%20Forensics-90EE90?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Disk%20Forensics-90EE90?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Malware%20Analysis-90EE90?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Incident%20Response-90EE90?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Threat%20Hunting-90EE90?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Log%20Analysis-90EE90?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web%20Application%20Pentesting-90EE90?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reconnaissance-90EE90?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scripting%20%2F%20Automation-90EE90?style=for-the-badge" />
+
 
 </p>
 
