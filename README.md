@@ -5,7 +5,7 @@
 <h3 style="text-align:center;">Skills</h3>
 <p>
 
-<img src="https://img.shields.io/badge/Memory%20Forensics-90EE90?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Memory%20Forensics-C9EBFF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Network%20Forensics-90EE90?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Disk%20Forensics-90EE90?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Malware%20Analysis-90EE90?style=for-the-badge" />
