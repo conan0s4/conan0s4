@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/Disk%20Forensics-C9EBFF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Malware%20Analysis-C9EBFF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Incident%20Response-C9EBFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Threat%20Hunting-C9EBFF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Log%20Analysis-C9EBFF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Web%20Application%20Pentesting-C9EBFF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Reconnaissance-C9EBFF?style=for-the-badge" />
