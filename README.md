@@ -23,7 +23,24 @@
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
 
+## 🛠️ Tools & Technologies
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge)
+![The%20Sleuth%20Kit](https://img.shields.io/badge/The%20Sleuth%20Kit-0A4A8A?style=for-the-badge)
+![Autopsy](https://img.shields.io/badge/Autopsy-1E90FF?style=for-the-badge)
+![Eric%20Zimmerman's%20Tools](https://img.shields.io/badge/Eric%20Zimmerman's%20Tools-2E8B57?style=for-the-badge)
+![dnSpy](https://img.shields.io/badge/dnSpy-800080?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-B22222?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+![TestDisk](https://img.shields.io/badge/TestDisk-228B22?style=for-the-badge)
+![PhotoRec](https://img.shields.io/badge/PhotoRec-228B22?style=for-the-badge)
+![Event%20Viewer](https://img.shields.io/badge/Event%20Viewer-0078D4?style=for-the-badge)
+![FTK%20Imager](https://img.shields.io/badge/FTK%20Imager-DC143C?style=for-the-badge)
 
 ### Online Profiles
 
