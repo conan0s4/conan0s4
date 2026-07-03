@@ -38,7 +38,6 @@
 ![Event%20Viewer](https://img.shields.io/badge/Event%20Viewer-0078D4?style=for-the-badge)
 ![FTK%20Imager](https://img.shields.io/badge/FTK%20Imager-DC143C?style=for-the-badge)
 ![Detect It Easy](https://img.shields.io/badge/Detect%20It%20Easy-6C63FF?style=for-the-badge)
-![Hybrid Analysis](https://img.shields.io/badge/Hybrid%20Analysis-FF6B35?style=for-the-badge)
 ![Scapy](https://img.shields.io/badge/Scapy-3776AB?style=for-the-badge) 
 ![chainsaw](https://img.shields.io/badge/Chainsaw-3776AB?style=for-the-badge) 
 ![chainsaw](https://img.shields.io/badge/Hayabusa-3776AB?style=for-the-badge)
