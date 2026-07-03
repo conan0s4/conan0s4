@@ -23,7 +23,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge)
 ![The%20Sleuth%20Kit](https://img.shields.io/badge/The%20Sleuth%20Kit-0A4A8A?style=for-the-badge)
