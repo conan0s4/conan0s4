@@ -21,7 +21,6 @@
 
 ## Tools & Technologies
 
-![Python](https://img.shields.io/badge/64DGB-3776AB?Color=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -31,6 +30,7 @@
 ![Eric%20Zimmerman's%20Tools](https://img.shields.io/badge/Eric%20Zimmerman's%20Tools-2E8B57?style=for-the-badge)
 ![dnSpy](https://img.shields.io/badge/dnSpy-800080?style=for-the-badge)
 ![Ghidra](https://img.shields.io/badge/Ghidra-B22222?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/64DGB-B22222?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 ![TestDisk](https://img.shields.io/badge/TestDisk-228B22?style=for-the-badge)
