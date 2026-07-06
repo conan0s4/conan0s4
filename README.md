@@ -42,7 +42,7 @@
 ![chainsaw](https://img.shields.io/badge/Chainsaw-3776AB?style=for-the-badge) 
 ![chainsaw](https://img.shields.io/badge/Hayabusa-3776AB?style=for-the-badge)
 ![chainsaw](https://img.shields.io/badge/ProcMon-3776AB?style=for-the-badge)
-![chainsaw](https://img.shields.io/badge/Sysmon-3776AB?style=for-the-badge)
+![chainsaw](https://img.shields.io/badge/Sysmon-lightgreen?style=for-the-badge)
 
 ### Online Profiles
 
