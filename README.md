@@ -5,14 +5,14 @@
 <h3 style="text-align:center;">Skills</h3>
 <p>
 
-<img src="https://img.shields.io/badge/Memory%20Forensics-C9EBFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Network%20Forensics-C9EBFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EndPoint%20Forensics-C9EBFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Malware%20Analysis-C9EBFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Incident%20Response-C9EBFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web%20Application%20Pentesting-C9EBFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Memory%20Forensics-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Network%20Forensics-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EndPoint%20Forensics-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Malware%20Analysis-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Incident%20Response-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web%20Application%20Pentesting-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Reconnaissance-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Scripting%20%2F%20Automation-C9EBFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scripting%20%2F%20Automation-violet?style=for-the-badge" />
 
 
 </p>
