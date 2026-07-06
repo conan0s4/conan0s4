@@ -20,9 +20,9 @@
 
 ## Tools & Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-gray?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge)
 ![The%20Sleuth%20Kit](https://img.shields.io/badge/The%20Sleuth%20Kit-0A4A8A?style=for-the-badge)
 ![Autopsy](https://img.shields.io/badge/Autopsy-1E90FF?style=for-the-badge)
