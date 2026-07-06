@@ -43,6 +43,7 @@
 ![chainsaw](https://img.shields.io/badge/Hayabusa-green?style=for-the-badge)
 ![chainsaw](https://img.shields.io/badge/ProcMon-red?style=for-the-badge)
 ![chainsaw](https://img.shields.io/badge/Sysmon-green?style=for-the-badge)
+![chainsaw](https://img.shields.io/badge/Velociraptor-green?style=for-the-badge)
 
 ### Online Profiles
 
