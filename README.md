@@ -39,10 +39,10 @@
 ![FTK%20Imager](https://img.shields.io/badge/FTK%20Imager-green?style=for-the-badge)
 ![Detect It Easy](https://img.shields.io/badge/Detect%20It%20Easy-red?style=for-the-badge)
 ![Scapy](https://img.shields.io/badge/Scapy-blue?style=for-the-badge) 
-![chainsaw](https://img.shields.io/badge/Chainsaw-3776AB?style=for-the-badge) 
-![chainsaw](https://img.shields.io/badge/Hayabusa-3776AB?style=for-the-badge)
-![chainsaw](https://img.shields.io/badge/ProcMon-3776AB?style=for-the-badge)
-![chainsaw](https://img.shields.io/badge/Sysmon-lightgreen?style=for-the-badge)
+![chainsaw](https://img.shields.io/badge/Chainsaw-green?style=for-the-badge) 
+![chainsaw](https://img.shields.io/badge/Hayabusa-green?style=for-the-badge)
+![chainsaw](https://img.shields.io/badge/ProcMon-red?style=for-the-badge)
+![chainsaw](https://img.shields.io/badge/Sysmon-green?style=for-the-badge)
 
 ### Online Profiles
 
