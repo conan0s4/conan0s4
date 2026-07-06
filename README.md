@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/Scripting%20%2F%20Automation-violet?style=for-the-badge" />
 
 
+
 </p>
 
 
@@ -40,6 +41,8 @@
 ![Scapy](https://img.shields.io/badge/Scapy-3776AB?style=for-the-badge) 
 ![chainsaw](https://img.shields.io/badge/Chainsaw-3776AB?style=for-the-badge) 
 ![chainsaw](https://img.shields.io/badge/Hayabusa-3776AB?style=for-the-badge)
+![chainsaw](https://img.shields.io/badge/ProcMon-3776AB?style=for-the-badge)
+![chainsaw](https://img.shields.io/badge/Sysmon-3776AB?style=for-the-badge)
 
 ### Online Profiles
 
