@@ -21,7 +21,7 @@
 
 ## Tools & Technologies
 
-![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white)  
 ![PowerShell](https://img.shields.io/badge/PowerShell-gray?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-green?style=for-the-badge)
@@ -47,9 +47,9 @@
 
 ### Online Profiles
 
-[Meta-CTF↗](https://app.skillbit.com/u/conan0s4) 
-[Root-Me↗](https://www.root-me.org/conan0s4) 
-[TryHackMe↗](https://tryhackme.com/p/conan0s4)   
+[Meta-CTF↗](https://app.skillbit.com/u/conan0s4)   
+[Root-Me↗](https://www.root-me.org/conan0s4)      
+[TryHackMe↗](https://tryhackme.com/p/conan0s4)         
 [picoCTF↗](https://play.picoctf.org/users/conan0s4)   
 [Hack The Box↗](https://app.hackthebox.com/public/users/2201706)   
 [Ringzer0CTF↗](https://ringzer0ctf.com/profile/52616/conan0s4)   
