@@ -60,4 +60,5 @@
 [LinkedIn↗](https://www.linkedin.com/in/alexander-sapo-245372337)   
 [HackerRank↗](https://www.hackerrank.com/profile/alexandermsapo)   
 [HackTheBox-Academy↗](https://profile.hackthebox.com/profile/019d943e-65e2-725e-8bdd-11004628b0a5)   
-[Credly↗](https://www.credly.com/users/alexander-sapo)  
+[Credly↗](https://www.credly.com/users/alexander-sapo)
+[githubBot↗](https://github.com/corpeadmin) 
